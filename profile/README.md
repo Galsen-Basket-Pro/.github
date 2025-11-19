@@ -32,18 +32,6 @@ L’app **Galsen Basket Pro** (disponible sur [Google Play](https://play.google.
 - Code mobile en **Flutter** (Feature First Architecture + Riverpod)
 - Hébergement et API optimisés pour la performance et la scalabilité
 
----
-
-## 👥 Équipe
-| Rôle | Nom |
-|------|-----|
-| 👨🏾‍💻 Founder & Mobile Lead | **Oumar Fall** |
-| 🧑🏾‍💻 Backend & Admin | **Moustapha Mangane** |
-| 👨🏾‍🔧 UX/UI | **Moushab Dieye** |
-| 👨🏾‍🔧 Mentor and Mobile | **Mor Ndiaye** |
-
-
----
 
 ## 🧭 Vision
 Construire un **écosystème sportif africain digitalisé**, où chaque joueur, club ou fan peut trouver sa place, progresser et briller.
